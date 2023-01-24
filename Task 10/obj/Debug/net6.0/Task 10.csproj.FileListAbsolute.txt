@@ -1,0 +1,15 @@
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\bin\Debug\net6.0\Task 10.exe
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\bin\Debug\net6.0\Task 10.deps.json
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\bin\Debug\net6.0\Task 10.runtimeconfig.json
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\bin\Debug\net6.0\Task 10.dll
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\bin\Debug\net6.0\Task 10.pdb
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\obj\Debug\net6.0\Task 10.csproj.AssemblyReference.cache
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\obj\Debug\net6.0\Task 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\obj\Debug\net6.0\Task 10.AssemblyInfoInputs.cache
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\obj\Debug\net6.0\Task 10.AssemblyInfo.cs
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\obj\Debug\net6.0\Task 10.csproj.CoreCompileInputs.cache
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\obj\Debug\net6.0\Task 10.dll
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\obj\Debug\net6.0\refint\Task 10.dll
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\obj\Debug\net6.0\Task 10.pdb
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\obj\Debug\net6.0\Task 10.genruntimeconfig.cache
+C:\Users\parad\Pictures\ГБ\C#\Homework2\Task 10\obj\Debug\net6.0\ref\Task 10.dll
