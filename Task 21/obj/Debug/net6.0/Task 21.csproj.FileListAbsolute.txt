@@ -1,0 +1,15 @@
+C:\GIT\C-HomeWork\Task 21\bin\Debug\net6.0\Task 21.exe
+C:\GIT\C-HomeWork\Task 21\bin\Debug\net6.0\Task 21.deps.json
+C:\GIT\C-HomeWork\Task 21\bin\Debug\net6.0\Task 21.runtimeconfig.json
+C:\GIT\C-HomeWork\Task 21\bin\Debug\net6.0\Task 21.dll
+C:\GIT\C-HomeWork\Task 21\bin\Debug\net6.0\Task 21.pdb
+C:\GIT\C-HomeWork\Task 21\obj\Debug\net6.0\Task 21.csproj.AssemblyReference.cache
+C:\GIT\C-HomeWork\Task 21\obj\Debug\net6.0\Task 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\C-HomeWork\Task 21\obj\Debug\net6.0\Task 21.AssemblyInfoInputs.cache
+C:\GIT\C-HomeWork\Task 21\obj\Debug\net6.0\Task 21.AssemblyInfo.cs
+C:\GIT\C-HomeWork\Task 21\obj\Debug\net6.0\Task 21.csproj.CoreCompileInputs.cache
+C:\GIT\C-HomeWork\Task 21\obj\Debug\net6.0\Task 21.dll
+C:\GIT\C-HomeWork\Task 21\obj\Debug\net6.0\refint\Task 21.dll
+C:\GIT\C-HomeWork\Task 21\obj\Debug\net6.0\Task 21.pdb
+C:\GIT\C-HomeWork\Task 21\obj\Debug\net6.0\Task 21.genruntimeconfig.cache
+C:\GIT\C-HomeWork\Task 21\obj\Debug\net6.0\ref\Task 21.dll
