@@ -1,0 +1,15 @@
+C:\GIT\C-HomeWork\Task 57\obj\Debug\net6.0\Task 57.csproj.AssemblyReference.cache
+C:\GIT\C-HomeWork\Task 57\obj\Debug\net6.0\Task 57.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\C-HomeWork\Task 57\obj\Debug\net6.0\Task 57.AssemblyInfoInputs.cache
+C:\GIT\C-HomeWork\Task 57\obj\Debug\net6.0\Task 57.AssemblyInfo.cs
+C:\GIT\C-HomeWork\Task 57\obj\Debug\net6.0\Task 57.csproj.CoreCompileInputs.cache
+C:\GIT\C-HomeWork\Task 57\bin\Debug\net6.0\Task 57.exe
+C:\GIT\C-HomeWork\Task 57\bin\Debug\net6.0\Task 57.deps.json
+C:\GIT\C-HomeWork\Task 57\bin\Debug\net6.0\Task 57.runtimeconfig.json
+C:\GIT\C-HomeWork\Task 57\bin\Debug\net6.0\Task 57.dll
+C:\GIT\C-HomeWork\Task 57\bin\Debug\net6.0\Task 57.pdb
+C:\GIT\C-HomeWork\Task 57\obj\Debug\net6.0\Task 57.dll
+C:\GIT\C-HomeWork\Task 57\obj\Debug\net6.0\refint\Task 57.dll
+C:\GIT\C-HomeWork\Task 57\obj\Debug\net6.0\Task 57.pdb
+C:\GIT\C-HomeWork\Task 57\obj\Debug\net6.0\Task 57.genruntimeconfig.cache
+C:\GIT\C-HomeWork\Task 57\obj\Debug\net6.0\ref\Task 57.dll
