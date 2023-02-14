@@ -1,0 +1,15 @@
+C:\GIT\C-HomeWork\Task 60\bin\Debug\net6.0\Task 60.exe
+C:\GIT\C-HomeWork\Task 60\bin\Debug\net6.0\Task 60.deps.json
+C:\GIT\C-HomeWork\Task 60\bin\Debug\net6.0\Task 60.runtimeconfig.json
+C:\GIT\C-HomeWork\Task 60\bin\Debug\net6.0\Task 60.dll
+C:\GIT\C-HomeWork\Task 60\bin\Debug\net6.0\Task 60.pdb
+C:\GIT\C-HomeWork\Task 60\obj\Debug\net6.0\Task 60.csproj.AssemblyReference.cache
+C:\GIT\C-HomeWork\Task 60\obj\Debug\net6.0\Task 60.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\C-HomeWork\Task 60\obj\Debug\net6.0\Task 60.AssemblyInfoInputs.cache
+C:\GIT\C-HomeWork\Task 60\obj\Debug\net6.0\Task 60.AssemblyInfo.cs
+C:\GIT\C-HomeWork\Task 60\obj\Debug\net6.0\Task 60.csproj.CoreCompileInputs.cache
+C:\GIT\C-HomeWork\Task 60\obj\Debug\net6.0\Task 60.dll
+C:\GIT\C-HomeWork\Task 60\obj\Debug\net6.0\refint\Task 60.dll
+C:\GIT\C-HomeWork\Task 60\obj\Debug\net6.0\Task 60.pdb
+C:\GIT\C-HomeWork\Task 60\obj\Debug\net6.0\Task 60.genruntimeconfig.cache
+C:\GIT\C-HomeWork\Task 60\obj\Debug\net6.0\ref\Task 60.dll

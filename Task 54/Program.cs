@@ -46,14 +46,14 @@ void SelectionSort(int [,] matr)
     {
         for (int j = 0; j<matr.GetLength(1)-1; j++)
         {
-            int minposition = j;
+            int maxposition = j;
             for (int k = j+1; k < matr.GetLength(1); k++)
             {
-                if (matr[i,k]<matr[i,minposition]) minposition=j;
+                if (matr[i,k]>matr[i,maxposition]) maxposition=k;
             }
             int temporary= matr[i,j];
-            matr[i,j]=matr[i,minposition];
-            matr[i,minposition]=temporary;
+            matr[i,j]=matr[i,maxposition];
+            matr[i,maxposition]=temporary;
         }
     }
 }
