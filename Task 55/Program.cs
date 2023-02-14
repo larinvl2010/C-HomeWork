@@ -6,6 +6,33 @@ Console.Clear();
 int row = new Random().Next(5,7);
 
 int[,] array = new int[row, row];
+Console.WriteLine("Enter size of matrix");
+int A = Convert.ToInt32(Console.ReadLine());
+int B = Convert.ToInt32(Console.ReadLine());
+int [,] matrix= new int[A,B];
+
+void PrintArray(int [,] matr)
+{
+    for (int i = 0; i<matr.GetLength(0); i++)
+    {
+        for (int j = 0; j<matr.GetLength(1); j++)
+        {
+            Console.Write($"{matr[i,j]} ");
+        }
+    Console.WriteLine();
+    }
+}
+
+void FillArray(int [,] matr)
+{
+    for (int i = 0; i<matr.GetLength(0); i++)
+    {
+        for (int j = 0; j<matr.GetLength(1); j++)
+        {
+            matr [i,j]=new Random().Next(1,10);
+        }
+    }
+}
 FillArray(array);
 PrintArray(array);
 Console.WriteLine();
