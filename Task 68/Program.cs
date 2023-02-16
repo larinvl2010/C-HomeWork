@@ -17,4 +17,4 @@ int AkkermannFunction (int numberM, int numberN)
 return AkkermannFunction(numberM, numberN);
 }
 
-Console.WriteLine("Akkerman function for numbers A("+m+" "+n+")= "+AckermannFunction(m, n));
+Console.WriteLine("Akkerman function for numbers A("+m+" "+n+")= "+AkkermannFunction(m, n));

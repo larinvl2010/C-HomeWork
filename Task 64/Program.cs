@@ -8,10 +8,7 @@ int N = Convert.ToInt32(Console.ReadLine());
 
 void AllIntNumbers(int number)
 {
-    if (number == 1) 
-    {
-        Console.WriteLine(number);
-    }
+    if (number == 1) Console.WriteLine(number);
     else 
     {
         Console.Write(number+" ");
